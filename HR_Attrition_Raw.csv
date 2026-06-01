@@ -1,0 +1,1031 @@
+EmployeeID,Age,Department,SalaryBand,JobRole,Gender,YearsAtCompany,PerformanceScore,MonthlyIncome,Attrition
+EMP0001,50,Operations,Medium,Director,,16.4,N/A,23577.49,No
+,36,Engineering,Very High,Associate, Female,21.9,3.5,129176.1,No
+EMP0003,29,SALES,HIGH,,Female,13.2,1.9,117730.38,Yes
+EMP0004,42,Finance,High,Engineer,FEMALE,29.3,4.9,49730.27,No
+EMP0005,40,Sales,Medium,Analyst,F,20.6,4.0,144321.61,No
+EMP0006,44,Marketing,,Engineer,Male,10.3,3.2,39263.13,Yes
+EMP0007,32,IT,Medium,Engineer,Male,25.0,1.7,108341.49,No
+EMP0008,32,hr,Low,MANAGER, Female,18.5,1.2,-1000,No
+EMP0009,45,hr,HIGH,Analyst,Other,18.7,2.3,76079.48,No
+,57,Sales,Low,Lead, Female,16.8,4.0,113490.79,No
+EMP0011,45,Engineering,High,Manager,M,17.4,2.1,93232.2,No
+EMP0012,24,Finance,Band-B,Lead,male,26.8,3.2,75575.24,No
+,43,hr,MED,Associate,Female,3.6,3.9,62424.0,No
+EMP0014,-5,SALES,MED,MANAGER,F,11.7,1.4,#ERROR,No
+EMP0015,45,Finance,HIGH,Associate,M,2.6,3.7,38695.87,No
+EMP0016,51,,Low,Engineer,Other,26.4,1.4,75913.37,Yes
+EMP0017,59,Finance,MED,Engineer,Female,9.5,4.9,137488.48,No
+EMP0018,23,Operations,MED,analyst, Female,31.4,3.0,129960.44,No
+EMP0019,42,Marketing,High,Associate,male,18.4,1.6,72122.43,Yes
+,54,Sales,,Manager,Male,Unknown,2.4,119204.09,No
+EMP0021,33,Finance,Very High,Senior Analyst,Male,34.3,2.7,127010.91,Yes
+EMP0022,43,Finance,High,,male,29.4,4.0,135555.37,Yes
+EMP0023,46,Engineering,low,Engineer,M,,4.0,90785.75,No
+EMP0024,48,,low,Manager,male ,14.3,3.4,46579.92,No
+EMP0025,49,Finance,HIGH,Engineer,Female,19.3,1.4,53190.18,Yes
+EMP0026,999,hr,High,Senior Analyst,M,8.9,1.6,N/A,No
+EMP0027,36,Finance,Low,analyst,Other,6.9,1.4,97194.32,No
+EMP0028,24,IT,Band-B,Manager,F,17.7,3.3,24265.25,No
+EMP0029,58,Finance,Band-B,analyst,male,20.8,4.5,102685.52,No
+EMP0030,28,SALES,Band-B,Associate,male ,11.9,2.7,67366.05,No
+EMP0031,42,Operations,Very High,,male,19.9,1.6,58381.43,Yes
+EMP0032,30,Marketing,low,analyst,Other,31.1,3.2,134334.55,No
+EMP0033,39,IT,HIGH,MANAGER,F,19.5,4.2,#ERROR,No
+EMP0034,25,,MED,Senior Analyst,Male,25.2,4.0,32356.9,No
+EMP0035,46,SALES,Band-A,Analyst,FEMALE,28.2,4.5,127477.08,No
+EMP0036,-5,Operations,HIGH,Senior Analyst,male,34.6,2.1,26193.36,Yes
+EMP0037,30,Marketing,Low,MANAGER,M,21.1,1.8,114477.4,No
+EMP0038,47,Marketing,Medium,Director,,28.2,4.5,120607.81,Yes
+EMP0039,23,Operations,low,Engineer,Male,33.7,3.6,65838.34,No
+EMP0040,41,SALES,MED,MANAGER,Other,33.1,2.2,127222.42,No
+EMP0041,49,,High,Analyst,Other,,4.0,87035.72,No
+EMP0042,28,,MED,MANAGER,male ,14.2,4.3,80228.17,No
+EMP0043,29,Engineering,Very High,Engineer,,11.3,3.5,25902.43,No
+EMP0044,56,,Band-A,Lead,male ,3.0,3.8,57703.8,Yes
+EMP0045,35,Operations,Very High,MANAGER,Other,22.2,2.5,141031.3,No
+EMP0046,38,Finance,Band-A,MANAGER,F,25.8,3.2,70937.12,Yes
+EMP0047,,Operations,Low,Lead, Female,29.7,3.1,91071.07,Yes
+EMP0048,25,Operations,MED,Analyst,M,4.3,4.4,89162.82,No
+EMP0049,23,IT,,Senior Analyst,male ,30.7,4.4,96756.04,No
+EMP0050,N/A,Sales,HIGH,Director,male,22.5,4.3,27973.02,No
+EMP0051,25,hr,Band-A,Director,male,24.6,1.0,67082.91,No
+EMP0052,50,Finance,HIGH,Senior Analyst,Other,31.9,4.0,114006.68,No
+EMP0053,39,HR,,Senior Analyst,,21.9,4.0,46072.83,No
+EMP0054,47,Sales,Band-B,Senior Analyst, Female,11.8,3.7,46465.19,No
+EMP0055,55,Marketing,Band-A,Associate,male ,28.9,4.0,21311.78,Yes
+EMP0056,31,SALES,,Director,M,12.7,4.4,76872.65,No
+EMP0057,57,hr,MED,analyst,Female,1.2,2.9,134755.47,No
+EMP0058,35,hr,low,MANAGER,male ,,-1,26747.12,No
+EMP0059,52,IT,High,,M,12.1,1.5,44845.43,No
+EMP0060,36,Marketing,Low,MANAGER,Other,27.1,2.5,60310.99,No
+EMP0061,29,HR,,Manager,,12.7,3.6,#ERROR,No
+EMP0062,35,Finance,Band-B,Analyst,,30.1,4.1,103282.63,Yes
+EMP0063,44,Operations,Very High,Senior Analyst,male ,7.7,99,74072.71,1
+EMP0064,42,Finance,Low,,male,34.1,1.6,118678.96,No
+EMP0065,37,IT,low,Director,Other,27.3,-1,99252.03,No
+EMP0066,39,hr,Low,analyst,Male,4.0,1.0,136485.3,No
+EMP0067,45,Finance,HIGH,analyst,male ,19.8,1.7,-1000,Yes
+EMP0068,47,,Band-A,Director,FEMALE,34.5,1.1,52865.77,No
+EMP0069,46,SALES,,Manager,M,16.5,1.7,55287.02,No
+EMP0070,50,Operations,Band-B,Senior Analyst,Male,6.4,1.7,36296.34,No
+EMP0071,36,Marketing,Very High,Lead, Female,17.0,,63805.41,No
+EMP0072,22,,High,Analyst,male,17.9,2.6,149940.71,YES
+EMP0073,46,,Medium,Lead, Female,26.0,4.5,72747.65,Yes
+EMP0074,28,,Very High,Associate,F,24.5,3.0,48663.5,No
+EMP0075,30,HR,Very High,MANAGER,male,14.1,3.9,119122.77,No
+EMP0076,45,Operations,low,Associate,Female,7.6,1.4,90521.23,No
+EMP0077,22,HR,Band-A,Manager,male ,22.6,1.9,39448.19,Yes
+EMP0078,29,HR,Low,MANAGER,FEMALE,14.8,3.8,69489.66,Yes
+EMP0079,45,SALES,Very High,Senior Analyst,F,4.6,1.2,73881.06,No
+EMP0080,32,,Band-B,MANAGER,male ,31.5,2.9,117997.86,No
+EMP0081,38,HR,MED,MANAGER,Other,24.2,3.4,22687.28,No
+EMP0082,29,SALES,,,male ,23.9,3.4,54972.55,No
+EMP0083,56,Sales,High,,M,28.8,1.1,87287.52,No
+EMP0084,56,SALES,High,Manager, Female,18.5,2.3,54950.08,Yes
+EMP0085,54,Sales,Very High,Associate,,28.5,3.5,0,No
+EMP0086,26,Engineering,Band-B,Director,male,17.4,1.6,82642.77,No
+EMP0087,49,Sales,,Senior Analyst,FEMALE,2.4,3.8,67022.33,No
+EMP0088,28,Sales,,MANAGER,male,14.2,4.0,143397.12,No
+EMP0089,30,IT,Band-B,Analyst,Female,17.4,4.9,102180.73,No
+EMP0090,29,HR,Low,Analyst,Female,25.2,1.8,36892.38,No
+EMP0091,33,Finance,,Engineer,male ,3.7,4.3,92811.92,No
+EMP0092,55,Engineering,Band-B,MANAGER,Female,4.9,3.1,121495.14,Yes
+EMP0093,54,HR,Band-B,MANAGER,Male,9.2,2.5,112103.66,Yes
+EMP0094,44,Sales,High,Manager,M,9.3,1.5,42371.6,No
+EMP0095,45,Finance,Band-B,Analyst,M,25.6,3.9,146414.6,Yes
+EMP0096,58,SALES,Very High,Director,Male,8.8,1.9,78345.77,Yes
+EMP0097,56,,HIGH,Director,F,22.2,2.5,40673.25,No
+EMP0098,43,Operations,Band-A,Lead,Female,Unknown,1.3,,No
+EMP0099,48,Sales,low,Analyst,Other,20.1,4.2,32770.55,No
+EMP0100,56,hr,High,Director,F,29.3,4.1,,No
+,22,hr,HIGH,MANAGER,Female,14.2,3.9,35863.96,No
+EMP0102,56,,Low,Lead,Male,27.0,2.2,36266.28,No
+EMP0103,58,,Medium,Analyst, Female,14.8,1.7,130561.31,Yes
+EMP0104,35,Sales,Low,Engineer,FEMALE,12.4,3.6,64798.53,No
+EMP0105,24,Sales,Very High,Manager,Other,33.6,3.0,24011.53,Yes
+EMP0106,22,SALES,Band-B,,male ,6.5,1.7,26746.39,No
+EMP0107,26,SALES,Very High,Senior Analyst, Female,3.2,3.7,38482.16,Yes
+EMP0108,47,IT,Low,Manager, Female,27.0,5.0,47741.14,No
+EMP0109,35,Sales,Band-A,Analyst,,2.4,4.0,106469.01,No
+EMP0110,48,Sales,HIGH,Analyst,Male,29.3,4.0,40452.42,No
+EMP0111,30,SALES,Low,Manager,male,15.3,4.8,35453.67,No
+EMP0112,36,Marketing,,Engineer,F,32.0,1.8,119413.49,No
+EMP0113,36,SALES,Band-B,Associate, Female,25.3,3.3,107237.19,No
+EMP0114,47,Marketing,Very High,MANAGER,Female,21.4,4.9,76592.15,1
+EMP0115,34,Sales,High,Analyst,Male,33.2,1.7,91410.27,No
+EMP0116,53,SALES,,analyst,F,,3.8,60557.92,No
+EMP0117,53,IT,High,Director,Other,33.4,3.3,82725.05,Yes
+EMP0118,25,HR,,Associate,Female,4.7,3.3,85867.44,1
+EMP0119,51,Engineering,Low,Lead,Other,16.9,3.8,70340.85,No
+EMP0120,58,Engineering,Low,Lead,Male,9.4,4.7,137854.39,No
+EMP0121,44,SALES,High,,male,18.9,,22088.04,y
+EMP0122,36,HR,Band-B,Lead,male ,5.7,1.2,121682.26,Yes
+EMP0123,-5,Finance,High,Lead,FEMALE,29.5,4.4,36169.77,No
+EMP0124,57,Finance,Medium,Senior Analyst,male,29.6,1.9,123681.16,Yes
+,34,hr,Band-A,Manager,Male,33.4,2.5,100068.55,Yes
+EMP0126,53,SALES,,Lead, Female,5.4,2.8,129626.15,No
+,999,Marketing,Medium,Analyst,,,2.9,32676.86,Yes
+EMP0128,43,Operations,,MANAGER,male ,16.6,2.7,92667.48,Yes
+EMP0129,49,Marketing,MED,Manager,Male,12.1,4.7,85141.42,No
+EMP0130,23,IT,Band-B,analyst,Female,12.3,3.8,111805.11,No
+EMP0131,27,Engineering,Medium,Analyst,,14.4,3.5,89457.77,Yes
+EMP0132,,Operations,,analyst,Female,24.7,1.2,90295.49,Yes
+EMP0133,49,IT,low,Manager,F,20.9,4.6,75847.47,Yes
+EMP0134,41,,,Analyst,male ,16.1,4.6,60148.48,Yes
+EMP0135,51,hr,High,Senior Analyst,Female,2.7,4.1,82694.37,No
+EMP0136,32,Finance,High,MANAGER,Female,2.7,1.0,35404.01,No
+EMP0137,49,Finance,MED,Analyst,F,0.1,1.2,144996.73,No
+EMP0138,46,Marketing,HIGH,Associate,male ,33.9,1.9,112873.4,No
+EMP0139,54,Engineering,,Associate,FEMALE,0.2,1.5,143820.73,No
+EMP0140,22,Sales,High,analyst,F,3.6,2.6,49474.56,No
+EMP0141,48,Engineering,Band-A,Analyst,F,11.0,4.7,134314.33,No
+EMP0142,34,IT,Band-B,Associate,male ,28.3,2.9,125142.7,No
+EMP0143,24,IT,,,F,33.7,1.1,108029.81,No
+EMP0144,27,IT,Very High,Lead, Female,27.7,2.1,101253.79,No
+EMP0145,29,SALES,Band-B,Lead,M,24.2,1.2,61151.46,No
+EMP0146,48,,High,Manager,male ,18.2,1.1,126133.4,Yes
+EMP0147,30,Sales,MED,,male ,3.0,2.1,85197.01,Yes
+EMP0148,58,Sales,low,Engineer,FEMALE,33.5,,29215.9,No
+EMP0149,54,HR,low,MANAGER,Female,26.5,4.1,60672.21,No
+EMP0150,45,Engineering,High,Director, Female,22.4,4.9,141588.62,No
+EMP0151,36,,High,Engineer,male,26.6,2.5,130588.43,No
+EMP0152,53,IT,Low,Lead,Other,25.3,2.7,147647.74,No
+EMP0153,53,Operations,Band-B,MANAGER,FEMALE,22.3,4.4,101639.14,No
+EMP0154,45,hr,MED,Associate,Female,34.3,2.1,52176.31,Yes
+EMP0155,33,Engineering,Band-B,Engineer,M,31.6,1.6,41165.96,Yes
+EMP0156,23,SALES,Low,Associate,M,22.6,4.4,44298.88,No
+EMP0157,N/A,Sales,High,Senior Analyst,male ,24.3,1.2,22573.44,No
+EMP0158,58,Finance,Band-B,Manager,FEMALE,1.8,3.5,70788.67,No
+EMP0159,38,Finance,,MANAGER,male ,23.4,3.2,44885.6,No
+EMP0160,23,hr,Band-B,MANAGER,male,1.5,2.4,73515.21,No
+EMP0161,23,,Very High,Engineer,M,20.6,2.3,141549.28,No
+EMP0162,49,Marketing,Band-B,Analyst,male ,35.0,4.1,75970.23,No
+EMP0163,44,Sales,Medium,Manager, Female,19.5,1.3,134137.98,No
+EMP0164,58,Engineering,HIGH,Manager,Other,16.6,1.9,98715.62,No
+EMP0165,53,Marketing,High,analyst,male,10.9,,52127.1,Yes
+EMP0166,54,SALES,,analyst,male,4.2,3.2,66261.12,Yes
+EMP0167,22,hr,Medium,Lead,male ,25.6,1.5,30909.54,No
+EMP0168,40,Sales,Very High,MANAGER,male,6.7,4.5,63350.14,No
+EMP0169,23,HR,,MANAGER,male,4.0,2.6,108080.32,No
+EMP0170,47,Operations,,Analyst,FEMALE,14.8,99,29374.44,Yes
+EMP0171,53,Sales,High,Associate,FEMALE,27.8,4.2,46702.18,YES
+EMP0172,27,Finance,Medium,Director,male,26.1,3.5,69587.34,Yes
+EMP0173,53,hr,,Senior Analyst, Female,1.9,3.0,147666.44,y
+EMP0174,25,HR,HIGH,Director,F,15.9,4.9,122032.04,No
+EMP0175,32,IT,Low,Lead, Female,18.3,1.6,115353.28,No
+EMP0176,38,Engineering,low,MANAGER,male ,22.6,3.9,35104.82,Yes
+EMP0177,59,Marketing,Very High,Engineer,F,22.8,1.8,121529.47,Yes
+EMP0178,45,HR,Very High,Engineer,FEMALE,12.8,2.4,122084.95,No
+EMP0179,26,hr,Medium,Engineer,male ,19.6,2.2,98143.35,Yes
+EMP0180,55,Finance,,Director,,16.8,4.8,148747.03,No
+EMP0181,27,hr,low,analyst,male,,4.9,62283.01,No
+EMP0182,43,IT,Medium,Associate,Other,18.6,1.7,142365.42,Yes
+EMP0183,32,SALES,Low,Director,Other,,1.1,138915.04,Yes
+EMP0184,37,Operations,Low,Analyst,FEMALE,14.2,3.9,21492.49,No
+EMP0185,54,IT,MED,Engineer,Male,20.0,2.7,78515.15,No
+EMP0186,30,HR,HIGH,analyst,Male,28.1,1.4,147023.55,No
+EMP0187,27,Engineering,MED,Manager,,18.8,3.7,33405.78,No
+EMP0188,37,SALES,High,MANAGER, Female,23.2,3.2,91212.01,No
+EMP0189,50,Operations,MED,,Male,,4.9,147264.48,No
+EMP0190,24,Sales,HIGH,MANAGER,male ,18.2,1.9,#ERROR,No
+EMP0191,41,Engineering,MED,Analyst,M,14.9,2.6,44675.99,No
+EMP0192,57,IT,,Associate,,30.7,3.2,95683.82,No
+EMP0193,40,Finance,Band-A,Analyst,Male,14.6,4.2,46577.27,No
+EMP0194,47,Engineering,MED,Associate,,16.2,3.2,87561.55,No
+EMP0195,24,Operations,Medium,Analyst,F,34.7,3.5,29625.49,No
+EMP0196,40,hr,HIGH,Director,F,0.0,1.9,98712.75,Yes
+EMP0197,41,hr,Band-B,analyst,male,6.5,4.4,87182.69,No
+EMP0198,53,hr,Very High,,Male,13.4,2.7,116220.98,No
+EMP0199,28,IT,High,Senior Analyst,,32.6,1.6,101991.06,Yes
+EMP0200,54,Operations,HIGH,Senior Analyst,male ,2.5,3.7,91448.81,Yes
+EMP0201,39,Sales,Medium,Engineer,male ,0.3,1.9,109671.25,No
+EMP0202,22,Marketing,Low,Director,male ,1.8,1.4,38712.45,No
+EMP0203,32,,low,Analyst, Female,3.1,4.4,97396.76,YES
+EMP0204,49,,Low,Associate, Female,1.3,2.8,42374.38,No
+EMP0205,46,Finance,,analyst,M,16.8,4.0,140317.89,No
+EMP0206,44,Operations,low,Analyst,Female,20.3,2.2,28883.43,Yes
+EMP0207,52,SALES,Medium,Director,Male,9.5,4.1,75948.72,No
+EMP0208,51,IT,Medium,Senior Analyst,Other,13.9,1.4,110453.67,No
+EMP0209,56,IT,,,male,3.2,2.4,79542.89,No
+EMP0210,28,HR,High,,M,11.8,4.9,0,No
+EMP0211,37,hr,MED,Senior Analyst,M,18.3,4.2,91939.27,No
+EMP0212,47,IT,High,analyst,,25.6,3.0,103412.15,Yes
+EMP0213,23,Engineering,Medium,Associate,male,0.1,2.4,111493.0,No
+EMP0214,22,hr,Band-A,analyst, Female,16.4,4.5,68523.78,Yes
+EMP0215,33,Marketing,Medium,Engineer,F,10.4,3.2,93275.8,No
+EMP0216,26,Finance,,analyst,F,29.8,4.0,78589.24,Yes
+EMP0217,58,Engineering,Band-B,analyst,,25.0,4.0,107367.29,Yes
+EMP0218,53,Engineering,Band-B,Senior Analyst,,20.6,1.1,95862.41,No
+EMP0219,30,Marketing,HIGH,Senior Analyst,Female,9.7,1.5,88348.31,No
+EMP0220,56,HR,Low,Lead, Female,31.9,3.6,52438.17,No
+EMP0221,40,IT,MED,Engineer,FEMALE,1.6,1.6,20262.41,Yes
+EMP0222,37,HR,High,Manager, Female,3.8,2.0,42630.62,Yes
+EMP0223,24,IT,Band-B,Senior Analyst,F,13.7,4.8,35218.59,No
+EMP0224,41,Operations,MED,Director,Female,4.4,3.2,78381.02,Yes
+EMP0225,45,Operations,High,Director,male,33.5,4.0,99593.56,Yes
+EMP0226,54,Engineering,Low,Lead,Other,27.9,3.2,47701.05,No
+EMP0227,45,Engineering,Medium,Associate,M,9.1,3.2,142077.42,No
+EMP0228,32,Sales,,Senior Analyst,Other,20.6,1.4,20868.68,No
+EMP0229,29,Marketing,Very High,Engineer, Female,34.4,2.4,120399.13,No
+EMP0230,57,,Very High,Senior Analyst,Female,30.9,2.1,101276.62,No
+EMP0231,59,Operations,MED,, Female,21.0,2.6,#ERROR,No
+EMP0232,41,Marketing,Band-A,,,31.6,4.2,26563.56,No
+EMP0233,56,Engineering,Band-A,,Male,34.6,2.5,101573.25,Yes
+EMP0234,46,HR,low,Senior Analyst, Female,26.0,2.8,70129.76,Yes
+EMP0235,-5,Engineering,low,Associate,FEMALE,2.3,2.6,141714.73,No
+EMP0236,46,HR,low,,Female,,1.4,90458.71,0
+EMP0237,50,IT,Very High,MANAGER,Male,29.3,2.8,142154.7,No
+EMP0238,39,,Medium,Analyst,male,8.1,1.8,48662.88,Yes
+EMP0239,39,SALES,Low,Engineer,male,29.1,1.7,114344.37,No
+EMP0240,23,SALES,MED,analyst,FEMALE,4.2,99,100242.37,No
+EMP0241,56,SALES,Band-B,Analyst,FEMALE,1.6,2.4,116123.07,Yes
+EMP0242,37,IT,Band-A,Associate,Female,13.4,4.0,47906.82,Yes
+EMP0243,57,Engineering,HIGH,Engineer,F,1.3,2.1,106449.29,No
+EMP0244,54,Sales,High,MANAGER, Female,33.5,2.2,84745.25,No
+EMP0245,25,Engineering,Low,Director,Male,28.9,3.6,116567.25,No
+EMP0246,54,Operations,,Associate,FEMALE,28.0,1.8,62515.8,No
+EMP0247,35,SALES,Low,Analyst,Male,22.0,4.6,135707.41,No
+EMP0248,42,Engineering,MED,Analyst,,7.6,3.1,30959.17,No
+EMP0249,41,hr,Medium,Manager,male ,18.1,2.8,124934.61,No
+EMP0250,29,hr,low,MANAGER,Male,20.9,3.2,131971.55,No
+EMP0251,28,Operations,Band-B,Manager,male,18.4,1.7,0,No
+EMP0252,24,IT,HIGH,analyst,male ,9.1,3.5,86654.43,No
+EMP0253,38,Sales,Very High,analyst, Female,18.0,2.5,76990.05,No
+EMP0254,54,Marketing,Medium,Lead,M,17.2,4.6,149514.1,No
+EMP0255,33,IT,Low,analyst,male,34.9,1.7,-1000,No
+EMP0256,43,IT,Very High,Director,male ,31.4,3.0,91093.88,Yes
+EMP0257,43,Engineering,High,Manager,F,,3.4,107187.82,Yes
+EMP0258,51,SALES,low,MANAGER,M,21.8,1.1,111112.79,No
+EMP0259,59,Finance,Medium,Associate,Male,26.2,N/A,46523.21,No
+EMP0260,59,hr,HIGH,MANAGER,FEMALE,1.2,3.9,105019.23,No
+EMP0261,29,SALES,Medium,MANAGER,Other,31.3,4.3,126388.04,Yes
+EMP0262,48,HR,low,, Female,30.1,2.3,26502.41,No
+EMP0263,48,IT,MED,Engineer, Female,16.0,4.2,,No
+EMP0264,55,HR,HIGH,Senior Analyst,male ,13.7,4.9,23835.53,Yes
+EMP0265,42,HR,HIGH,Lead,Female,9.6,4.4,66276.23,No
+EMP0266,51,Marketing,low,Director,F,16.7,1.5,22055.72,No
+EMP0267,54,Marketing,Medium,analyst,FEMALE,1.6,4.0,30028.87,No
+EMP0268,49,Marketing,Band-A,Associate,,29.8,2.3,138451.88,No
+EMP0269,54,,MED,Engineer,FEMALE,1.2,5.0,66131.91,No
+,26,HR,High,,M,11.5,2.9,75220.3,No
+EMP0271,40,Engineering,,MANAGER,M,32.6,1.5,47994.77,No
+EMP0272,25,HR,MED,MANAGER,male,25.7,3.9,97622.45,No
+EMP0273,56,IT,,Analyst,Female,9.8,2.3,97324.42,No
+EMP0274,38,Marketing,High,Lead,Other,8.8,5.0,68386.05,No
+EMP0275,49,IT,HIGH,Senior Analyst, Female,0.2,99,63294.53,No
+EMP0276,51,Marketing,Low,MANAGER,Male,24.4,3.6,135045.36,No
+EMP0277,50,,low,Manager,male ,1.7,1.5,69826.95,Yes
+EMP0278,27,Engineering,HIGH,Director,FEMALE,18.6,3.7,84155.13,No
+EMP0279,56,Operations,HIGH,analyst,,33.7,1.4,56829.62,No
+EMP0280,58,Marketing,low,Engineer,Female,3.8,1.1,122280.04,Yes
+EMP0281,45,Finance,Very High,MANAGER,FEMALE,31.3,4.3,71668.26,No
+EMP0282,50,,low,Engineer,male ,34.7,1.8,86769.44,Yes
+EMP0283,52,hr,Band-B,,FEMALE,2.2,2.5,52936.43,No
+EMP0284,56,hr,Low,Engineer,M,,4.9,#ERROR,No
+EMP0285,54,Finance,High,Engineer,M,18.1,2.3,57894.45,No
+EMP0286,42,,Medium,analyst,Other,31.7,2.2,120196.53,Yes
+EMP0287,53,Engineering,Medium,analyst,male ,20.0,4.7,75574.43,Yes
+EMP0288,44,HR,,Engineer,F,23.2,1.4,46808.26,No
+EMP0289,54,Marketing,Band-A,,Other,19.0,4.0,123963.44,No
+EMP0290,24,Sales,MED,Senior Analyst,FEMALE,30.3,5.0,63368.88,No
+,39,IT,Band-B,Manager, Female,25.7,4.6,132475.14,No
+EMP0292,46,Operations,Very High,Director,F,18.2,3.6,138983.43,No
+EMP0293,52,hr,Band-A,,male ,30.4,2.3,#ERROR,No
+EMP0294,24,IT,Low,Director, Female,8.6,2.0,-1000,No
+EMP0295,45,Operations,MED,Analyst,male ,,4.3,122358.53,No
+EMP0296,53,,Band-A,Associate,F,5.6,4.5,73474.13,No
+EMP0297,43,Operations,MED,Senior Analyst,F,11.7,3.1,133583.98,No
+,44,IT,Band-A,Director,Female,8.4,2.0,102934.05,Yes
+EMP0299,23,hr,HIGH,Manager,,32.6,1.5,128373.61,No
+EMP0300,48,HR,Band-B,Director,FEMALE,3.7,1.3,84926.13,0
+EMP0301,23,Marketing,Very High,MANAGER,male,24.5,3.9,89553.32,Yes
+EMP0302,47,Operations,HIGH,Senior Analyst, Female,6.6,2.7,38770.39,Yes
+EMP0303,38,hr,low,Lead,Female,30.9,4.6,121918.36,No
+EMP0304,54,Finance,Medium,,Female,33.6,4.0,74520.65,No
+EMP0305,30,,MED,,FEMALE,16.3,1.8,85010.42,No
+EMP0306,50,Operations,Low,Manager,FEMALE,30.8,3.5,122062.7,No
+EMP0307,47,HR,Band-A,Manager,male,0.2,2.7,97849.9,No
+EMP0308,56,IT,Band-B,Senior Analyst,male,28.7,3.3,46142.83,No
+EMP0309,46,Operations,Band-A,Analyst,F,8.0,4.0,96730.25,No
+EMP0310,45,Marketing,Band-B,MANAGER,male,,4.2,72992.27,No
+EMP0311,34,,Band-B,Associate,male,0.0,4.4,81038.32,No
+EMP0312,28,hr,High,Associate, Female,19.5,2.0,23680.47,Yes
+EMP0313,-5,Finance,Medium,analyst,Male,,1.1,47303.82,No
+EMP0314,41,Operations,HIGH,MANAGER,,9.1,4.0,56534.95,No
+EMP0315,22,IT,High,analyst,M,6.8,1.4,0,YES
+EMP0316,29,Marketing,High,Engineer,male,2.9,2.3,21494.02,Yes
+EMP0317,37,IT,Very High,Lead, Female,11.4,1.0,73141.04,No
+EMP0318,35,Operations,Very High,Lead,Other,19.6,3.7,140123.49,No
+EMP0319,33,Engineering,High,Senior Analyst, Female,4.1,1.7,34544.48,No
+EMP0320,44,hr,Low,analyst,M,13.2,3.6,87135.17,Yes
+EMP0321,36,Finance,MED,Analyst,Other,0.3,99,122247.91,Yes
+EMP0322,49,hr,Medium,MANAGER,Male,28.7,1.3,142529.07,No
+EMP0323,-5,SALES,MED,Associate,F,4.5,1.3,117080.96,No
+EMP0324,23,HR,Very High,Lead,F,9.9,2.4,,No
+,53,SALES,High,Director,male,0.6,4.5,127443.45,No
+EMP0326,44,Sales,Band-B,MANAGER,M,15.1,1.9,78006.16,No
+EMP0327,43,,low,Lead,Female,29.4,,124759.79,No
+EMP0328,46,Finance,,Senior Analyst,Female,13.7,1.3,21035.37,No
+EMP0329,43,,Medium,Senior Analyst,Male,6.3,4.1,140192.94,No
+EMP0330,43,Marketing,Medium,,F,26.4,2.6,77629.85,No
+EMP0331,27,Engineering,MED,, Female,27.6,4.0,91939.42,No
+EMP0332,36,IT,Band-A,analyst,M,6.1,4.6,53134.69,No
+EMP0333,58,,MED,Manager,,27.0,1.9,116529.01,No
+EMP0334,54,HR,Band-A,MANAGER,Male,33.2,4.2,29962.65,Yes
+EMP0335,29,Marketing,,Engineer,male,5.8,1.2,133442.65,No
+EMP0336,26,Finance,low,,Female,-1,4.6,127655.19,No
+EMP0337,25,Marketing,Band-A,Engineer,,24.8,3.6,48087.82,no
+EMP0338,27,HR,HIGH,Director,Other,16.6,4.5,125212.17,No
+EMP0339,53,IT,Low,Analyst,Other,2.0,,122226.51,No
+EMP0340,51,IT,Band-B,MANAGER,Male,2.6,1.7,102188.16,Yes
+EMP0341,56,Engineering,Band-B,Associate,male,29.8,2.6,68557.62,No
+EMP0342,37,,Band-A,Director,F,34.7,2.5,55294.84,No
+,34,hr,MED,Engineer,male ,23.7,1.9,50131.87,No
+EMP0344,51,,Medium,Engineer,F,15.6,2.5,61419.17,No
+EMP0345,40,hr,MED,Engineer,F,,1.5,137462.6,No
+EMP0346,38,IT,High,Senior Analyst,male ,20.8,2.7,30093.3,No
+EMP0347,40,SALES,High,analyst,male ,13.4,4.2,127753.27,Yes
+EMP0348,49,SALES,Band-B,Analyst,,2.3,-1,65355.71,Yes
+EMP0349,47,IT,Band-B,Director,male ,28.8,1.1,87807.92,No
+EMP0350,58,SALES,Band-B,Lead,Other,13.0,2.7,123283.13,No
+EMP0351,47,Sales,Medium,Senior Analyst, Female,28.7,1.1,134968.95,No
+EMP0352,44,Operations,Medium,Analyst,M,,4.9,64821.58,No
+EMP0353,30,SALES,Band-B,,Male,0.0,1.5,80039.65,No
+EMP0354,33,hr,Medium,,FEMALE,5.6,3.8,73887.09,No
+EMP0355,22,Engineering,low,, Female,16.4,4.9,21722.63,No
+EMP0356,22,Engineering,Band-A,Director,male ,33.1,4.3,58472.58,No
+EMP0357,55,Finance,,analyst,Male,3.6,3.8,79694.6,No
+EMP0358,53,Operations,MED,Engineer,,29.9,4.4,73442.17,No
+EMP0359,46,HR,low,Lead,M,18.4,4.9,113850.8,Yes
+EMP0360,22,hr,MED,Manager,Male,28.9,3.5,70024.47,Yes
+EMP0361,37,Sales,HIGH,Director,,10.4,3.2,83618.94,No
+EMP0362,26,hr,Band-B,Manager,F,29.4,3.5,75849.12,No
+EMP0363,,IT,Band-B,Engineer, Female,27.0,3.1,116281.4,No
+EMP0364,50,Operations,HIGH,analyst,,8.1,3.5,132186.41,No
+EMP0365,24,IT,Low,analyst,Male,4.6,2.8,89145.58,No
+EMP0366,33,Engineering,High,Engineer,Other,30.4,1.9,122626.19,No
+EMP0367,47,Sales,low,Engineer,Male,33.7,1.5,58582.27,No
+EMP0368,37,Engineering,MED,MANAGER,Female,1.1,1.3,90378.05,Yes
+,58,Marketing,High,Manager,FEMALE,25.6,2.1,64879.89,No
+EMP0370,43,Finance,Band-B,analyst,,31.8,1.2,73846.12,No
+EMP0371,50,SALES,Band-B,Engineer,male,30.0,3.3,,Yes
+EMP0372,35,SALES,MED,Manager,Female,33.8,2.1,134616.12,YES
+EMP0373,49,SALES,Low,Engineer,Male,26.6,4.3,35794.4,Yes
+EMP0374,N/A,hr,MED,Associate,,15.5,1.3,102503.1,No
+EMP0375,51,hr,,Engineer,FEMALE,10.9,1.9,95678.69,No
+EMP0376,26,Finance,Very High,MANAGER,F,11.2,3.9,35393.96,No
+EMP0377,33,,Low,Lead,FEMALE,25.4,3.4,47546.26,No
+EMP0378,37,Operations,HIGH,analyst,male ,26.1,1.3,60430.32,No
+EMP0379,,IT,low,analyst,Female,7.0,4.5,41701.04,No
+EMP0380,999,,,Manager,male,30.4,4.5,51684.83,No
+EMP0381,42,hr,Low,Associate,Other,25.0,2.3,54788.1,No
+EMP0382,57,SALES,,Analyst, Female,19.7,2.4,63637.6,No
+EMP0383,54,HR,low,Director,male ,16.5,5.0,117420.76,No
+EMP0384,51,Operations,low,,Female,19.0,3.5,94348.59,No
+EMP0385,58,Sales,low,analyst,M,5.6,-1,148212.07,
+EMP0386,44,,HIGH,,F,7.1,4.4,73915.66,No
+EMP0387,31,Engineering,Medium,,male ,3.2,2.1,118002.46,
+EMP0388,N/A,Marketing,Very High,Engineer,Other,5.4,2.7,133290.89,No
+EMP0389,57,IT,High,Director,male ,15.9,2.1,108267.2,No
+EMP0390,55,Engineering,low,Lead,Male,18.6,4.2,73542.42,No
+EMP0391,52,Engineering,HIGH,analyst,Male,0.6,3.3,-1000,No
+EMP0392,31,HR,,Engineer,F,27.9,3.6,46476.73,No
+EMP0393,40,Operations,low,analyst,male ,10.3,2.0,62581.78,No
+EMP0394,53,Marketing,MED,Engineer,,31.9,1.9,91069.08,No
+,22,Operations,Band-B,analyst,male,33.9,3.0,#ERROR,
+EMP0396,26,,Medium,MANAGER,Other,6.5,4.0,22878.39,No
+EMP0397,25,Finance,Very High,Associate,FEMALE,16.2,3.1,142864.84,No
+EMP0398,37,SALES,HIGH,Engineer,M,0.0,1.1,110561.55,No
+EMP0399,-5,,Very High,Senior Analyst,Male,20.9,4.5,84441.49,Yes
+EMP0400,37,Operations,MED,,male,21.3,1.3,141306.54,Yes
+EMP0401,23,,HIGH,analyst,male,8.7,4.8,77082.42,Yes
+EMP0402,49,Engineering,Band-A,analyst,male,19.5,1.1,147456.62,No
+EMP0403,53,,,Analyst,,,3.8,86597.02,Yes
+EMP0404,48,,Low,Director,F,5.6,1.3,34857.15,Yes
+EMP0405,41,Operations,Band-A,Lead,male ,22.8,4.6,,No
+EMP0406,45,Engineering,High,Lead,,11.4,2.9,N/A,No
+EMP0407,33,Marketing,Medium,Engineer,Male,20.7,1.6,120488.27,No
+EMP0408,56,Sales,low,Analyst,,15.2,2.4,143687.46,No
+EMP0409,54,Engineering,Band-A,Manager,FEMALE,34.5,1.7,120943.61,Yes
+EMP0410,54,Sales,MED,Director,Male,5.2,1.7,99473.76,No
+EMP0411,58,Operations,High,MANAGER,male ,16.3,4.8,131450.16,No
+EMP0412,33,Engineering,Band-A,MANAGER,,23.8,2.8,107522.04,No
+EMP0413,24,HR,Band-B,Lead,F,13.8,4.2,73055.48,No
+EMP0414,22,Finance,Low,Engineer,M,34.1,3.6,135130.57,No
+EMP0415,,SALES,High,analyst,male,25.3,N/A,48847.06,No
+,31,HR,Very High,Analyst,FEMALE,23.0,1.5,112903.37,No
+EMP0417,50,SALES,Very High,Engineer,M,26.5,1.9,134603.25,Yes
+EMP0418,34,HR,Low,,Female,33.3,4.1,115071.15,Yes
+EMP0419,33,Operations,Very High,analyst,FEMALE,31.8,4.9,110645.8,1
+EMP0420,52,SALES,Low,analyst,male ,25.3,2.1,117842.98,No
+EMP0421,23,IT,HIGH,Manager, Female,26.2,2.1,80457.18,No
+EMP0422,,,Low,MANAGER,F,5.1,2.9,133642.19,Yes
+EMP0423,44,Finance,,MANAGER,FEMALE,3.6,4.9,46446.74,No
+EMP0424,38,IT,Very High,Analyst,F,20.0,2.1,36560.23,No
+EMP0425,47,HR,low,Analyst, Female,0.6,2.6,57116.14,Yes
+EMP0426,29,HR,,,M,16.9,4.6,89105.06,No
+EMP0427,50,IT,HIGH,Engineer,FEMALE,7.4,1.0,86373.03,Yes
+,47,IT,Band-A,analyst,,12.1,1.2,126677.84,No
+EMP0429,31,Sales,MED,MANAGER, Female,27.2,3.4,72593.93,No
+EMP0430,47,hr,Medium,Manager,male,32.9,4.6,82964.78,Yes
+EMP0431,55,Finance,Low,Lead,Other,,2.0,21737.8,Yes
+EMP0432,28,,Very High,MANAGER,male ,18.7,2.9,73266.1,No
+EMP0433,999,hr,,Lead,M,30.9,2.8,104210.65,Yes
+EMP0434,999,IT,HIGH,Senior Analyst,F,2.9,2.9,22016.08,Yes
+EMP0435,50,IT,Band-B,Manager,M,28.9,3.5,56514.66,No
+EMP0436,57,Sales,HIGH,MANAGER, Female,12.5,,47034.33,No
+EMP0437,46,Finance,High,Lead,male ,11.3,N/A,25458.11,No
+EMP0438,42,Finance,HIGH,Director,F,34.2,2.9,82303.81,No
+EMP0439,57,Marketing,Band-B,,M,7.0,3.4,43624.03,No
+EMP0440,31,Engineering,Band-A,Lead,,24.3,3.1,116600.6,Yes
+EMP0441,999,hr,,Senior Analyst,male ,28.8,4.4,130230.62,Yes
+EMP0442,30,Engineering,,analyst,M,1.4,1.2,90926.07,No
+EMP0443,45,SALES,High,analyst,FEMALE,23.5,4.3,147621.95,No
+EMP0444,-5,HR,low,Analyst,M,33.3,4.4,78562.21,No
+EMP0445,56,Operations,Medium,Lead, Female,4.3,2.1,86737.87,No
+EMP0446,57,Operations,low,Engineer,M,31.4,2.9,148598.31,No
+EMP0447,39,Finance,Low,Associate,male,20.8,2.8,50101.3,No
+EMP0448,53,,MED,,Female,21.6,1.9,142530.97,No
+EMP0449,45,Engineering,Low,Director,male ,21.5,2.6,25568.88,No
+EMP0450,44,Marketing,High,Analyst,male ,10.5,1.2,78030.3,No
+EMP0451,53,,Band-B,Associate,Female,32.7,2.1,29100.46,Yes
+EMP0452,58,SALES,Very High,analyst,M,,4.3,114800.52,No
+EMP0453,33,Operations,Very High,MANAGER,male,21.9,2.1,99093.16,No
+EMP0454,34,hr,Very High,Lead,M,27.4,4.3,111862.45,No
+EMP0455,44,IT,Very High,Associate,Male,21.4,3.1,68682.45,No
+EMP0456,46,hr,low,Director,male,17.0,N/A,68032.65,No
+EMP0457,56,IT,MED,Manager,FEMALE,23.1,3.3,25891.51,Yes
+EMP0458,51,hr,Band-A,Manager,FEMALE,19.4,1.1,65492.84,No
+EMP0459,38,Engineering,Low,analyst,,20.9,3.7,140807.49,No
+EMP0460,41,Operations,Low,MANAGER,Other,27.4,1.2,69299.45,No
+EMP0461,46,Operations,HIGH,Analyst,,,2.8,128077.8,No
+EMP0462,43,,High,MANAGER,M,,4.7,129502.32,No
+EMP0463,34,hr,High,Manager,F,5.7,1.7,68521.35,No
+EMP0464,40,HR,Band-B,Lead,Female,15.4,2.6,102158.53,No
+EMP0465,57,Marketing,Low,Director,M,25.4,3.9,32398.31,No
+EMP0466,33,hr,Very High,Senior Analyst,M,20.8,99,33478.22,No
+EMP0467,40,hr,low,Lead,Male,22.8,3.7,26325.5,No
+EMP0468,33,Engineering,Band-B,Senior Analyst, Female,16.8,2.0,95531.96,Yes
+EMP0469,30,HR,low,Analyst, Female,21.6,3.7,75389.23,No
+EMP0470,28,Operations,low,Engineer,,11.5,2.2,91244.21,Yes
+EMP0471,49,Engineering,MED,Lead, Female,16.5,N/A,87739.51,No
+EMP0472,35,Finance,MED,analyst, Female,26.0,4.8,65526.39,No
+EMP0473,52,Marketing,,Associate, Female,30.5,3.9,108071.54,No
+EMP0474,40,Engineering,HIGH,Associate,F,15.2,4.5,118605.24,No
+EMP0475,37,HR,low,MANAGER, Female,1.5,1.0,21901.67,Yes
+EMP0476,26,Operations,Very High,Lead,F,5.7,3.9,46941.5,Yes
+EMP0477,56,HR,HIGH,analyst,F,0.7,N/A,112720.66,No
+EMP0478,33,SALES,low,Senior Analyst,Male,22.9,1.2,70260.62,No
+EMP0479,46,IT,Band-A,analyst,male,Unknown,4.5,106122.91,No
+EMP0480,42,IT,Band-B,Associate,Female,19.0,2.0,65105.15,Yes
+EMP0481,57,hr,MED,Lead,Other,17.3,3.7,-1000,Yes
+,44,HR,Band-B,Director,M,2.9,4.2,40628.25,Yes
+EMP0483,,hr,Medium,Lead,male ,14.1,3.7,53570.03,Yes
+EMP0484,35,IT,Low,MANAGER, Female,7.7,1.4,98703.53,No
+EMP0485,52,IT,Band-A,MANAGER,Other,14.6,3.4,76311.2,No
+EMP0486,26,HR,,,male,7.1,3.2,120659.35,No
+EMP0487,56,,Band-A,Engineer,M,29.4,4.6,130836.04,No
+EMP0488,44,SALES,Band-B,Senior Analyst,FEMALE,6.1,2.6,90414.03,Yes
+EMP0489,50,HR,Band-B,MANAGER,Other,33.6,2.3,118574.75,No
+EMP0490,32,SALES,low,MANAGER,Other,14.6,4.0,59897.59,Yes
+EMP0491,999,HR,low,,M,29.6,2.7,73946.26,No
+EMP0492,33,,Medium,Associate,M,,3.6,112661.1,No
+EMP0493,30,Marketing,HIGH,Associate,F,25.7,3.6,70207.56,Yes
+,31,HR,Medium,analyst,F,26.9,4.6,N/A,Yes
+EMP0495,38,HR,,Senior Analyst,Male,17.7,3.4,44098.46,No
+EMP0496,59,Operations,low,Lead,FEMALE,19.0,3.0,97970.27,No
+EMP0497,28,,,Engineer,Male,18.0,1.6,-1000,No
+EMP0498,34,hr,low,Analyst,,20.6,1.5,132923.15,Yes
+EMP0499,30,Sales,low,Director,FEMALE,1.0,1.6,114164.77,No
+EMP0500,48,Operations,low,,F,13.8,1.7,0,No
+EMP0501,23,Sales,Very High,Engineer,F,21.2,3.6,92530.57,Yes
+,26,,High,Analyst,F,20.9,4.0,96006.85,No
+EMP0503,50,HR,Band-A,Director,Female,27.8,-1,37374.58,Yes
+EMP0504,58,Finance,Very High,MANAGER,M,22.9,4.3,77701.69,No
+,59,IT,Low,Lead,Other,34.7,5.0,78600.92,Yes
+EMP0506,40,SALES,Band-B,Senior Analyst, Female,9.9,4.3,144604.72,No
+EMP0507,29,SALES,MED,MANAGER,Other,12.6,3.8,76041.29,No
+EMP0508,22,,,analyst,male,13.4,3.1,91414.54,No
+EMP0509,43,IT,High,Manager,Other,16.3,2.8,89322.68,No
+EMP0510,38,,Low,Engineer,F,29.3,1.3,102779.02,No
+EMP0511,28,IT,HIGH,Lead,FEMALE,8.3,2.6,0,No
+EMP0512,46,,low,Manager,FEMALE,Unknown,4.6,49255.44,No
+EMP0513,25,,low,Analyst,Male,14.2,4.2,88734.17,No
+EMP0514,57,HR,MED,Engineer, Female,21.1,1.9,127369.3,Yes
+EMP0515,27,Engineering,MED,,FEMALE,22.1,2.9,80204.91,Yes
+EMP0516,52,hr,MED,analyst,male,13.0,4.3,56199.48,No
+EMP0517,40,Sales,Low,Lead,FEMALE,17.9,1.3,105112.18,No
+EMP0518,48,Finance,Band-B,Analyst, Female,14.5,2.5,127089.76,No
+,31,Marketing,Band-B,Analyst, Female,2.4,4.4,28208.24,No
+EMP0520,47,Sales,Very High,Associate, Female,15.3,2.6,120982.76,No
+EMP0521,40,Marketing,,Director,male ,3.4,1.3,126814.23,No
+EMP0522,24,Finance,Very High,Senior Analyst,male ,14.2,3.2,79997.98,No
+EMP0523,34,SALES,Band-A,Analyst,Male,20.8,4.4,147829.74,No
+EMP0524,49,Marketing,HIGH,analyst,male ,20.3,3.4,122272.08,Yes
+EMP0525,41,HR,,Manager,Female,23.2,1.9,120576.13,No
+EMP0526,49,,Band-A,Lead,Other,3.3,2.5,117219.01,Yes
+EMP0527,29,hr,low,Lead,Other,22.8,2.8,39579.05,Yes
+EMP0528,22,,High,analyst,Male,10.9,3.3,48240.02,No
+,24,SALES,Band-A,MANAGER,F,14.0,4.0,80318.72,1
+EMP0530,34,SALES,High,Associate,male ,30.0,1.4,54320.57,No
+EMP0531,49,Engineering,low,analyst,male ,0.3,4.6,73981.33,Yes
+EMP0532,46,hr,Medium,Manager,FEMALE,20.6,1.0,135500.33,No
+EMP0533,54,Engineering,HIGH,Engineer,Male,21.0,2.5,127162.5,Yes
+EMP0534,59,Marketing,High,,male ,13.9,1.1,101905.18,No
+EMP0535,27,SALES,low,,FEMALE,8.3,2.6,131555.65,No
+EMP0536,,Operations,Band-A,Manager,male ,8.2,3.1,121890.41,No
+EMP0537,42,SALES,High,Director,Male,30.9,3.0,75768.04,No
+EMP0538,37,Sales,,MANAGER,F,15.5,1.7,46138.47,No
+EMP0539,42,,Medium,Associate,,11.6,3.6,86846.14,No
+EMP0540,32,SALES,Very High,Director,Other,15.7,1.2,115709.75,No
+EMP0541,58,Finance,,Manager,FEMALE,23.4,4.0,76734.55,No
+EMP0542,57,IT,Very High,analyst,,5.1,4.8,106680.35,No
+EMP0543,56,Engineering,low,MANAGER,,15.7,2.4,32262.57,YES
+,40,Finance,MED,MANAGER,Other,20.6,3.1,117240.62,No
+EMP0545,41,Marketing,,Director,M,33.2,2.5,125652.77,1
+EMP0546,39,Sales,,analyst,FEMALE,8.8,1.0,111888.92,No
+EMP0547,35,,low,Engineer,,12.6,2.5,145744.27,No
+EMP0548,36,Marketing,Band-B,Manager, Female,13.3,4.2,127464.77,No
+EMP0549,52,Operations,low,Senior Analyst,Male,21.2,3.4,137402.18,Yes
+EMP0550,22,Engineering,HIGH,Director,male ,12.5,1.4,141364.24,Yes
+EMP0551,24,,Medium,Manager,M,18.7,4.4,124175.24,No
+EMP0552,37,Engineering,HIGH,Engineer,Other,27.4,3.1,107653.65,No
+EMP0553,44,Finance,Low,Analyst,Other,24.7,4.4,20743.42,Yes
+EMP0554,32,Finance,Band-B,Associate,Female,15.6,3.3,80557.35,No
+EMP0555,33,hr,Band-B,Lead,male ,30.2,3.2,94251.1,Yes
+EMP0556,31,Operations,Band-B,Senior Analyst,Female,19.5,1.4,59523.94,No
+EMP0557,53,hr,Medium,Lead,M,18.9,1.7,61353.58,No
+EMP0558,37,IT,HIGH,Lead, Female,1.2,4.9,#ERROR,Yes
+EMP0559,29,HR,Very High,analyst,male ,34.5,1.9,135922.41,Yes
+EMP0560,59,hr,Band-A,Director,M,4.3,4.9,130393.27,No
+EMP0561,33,HR,Medium,MANAGER,FEMALE,8.1,3.1,72781.53,No
+EMP0562,45,Finance,MED,Manager,FEMALE,1.8,1.5,21780.81,No
+EMP0563,49,Finance,Band-A,Analyst,male,22.4,1.4,30428.89,No
+EMP0564,29,Sales,low,Analyst,Other,7.9,1.8,60585.53,No
+EMP0565,49,hr,MED,MANAGER,Male,6.3,4.7,22046.58,Yes
+EMP0566,57,Operations,Low,Associate,M,3.1,2.7,22229.47,No
+EMP0567,47,SALES,High,MANAGER,Other,3.6,2.6,139158.43,Yes
+EMP0568,29,Marketing,High,analyst, Female,20.5,2.3,111800.61,No
+EMP0569,49,hr,Very High,Senior Analyst,F,24.1,1.6,60164.28,No
+EMP0570,49,SALES,,Senior Analyst,Other,13.9,3.0,37243.8,No
+EMP0571,58,HR,MED,Associate,Female,16.8,1.5,86512.64,Yes
+EMP0572,57,Operations,Band-B,Director,,24.0,4.3,20695.0,No
+EMP0573,48,Marketing,HIGH,analyst,male,0.6,2.5,141993.79,Yes
+EMP0574,38,Marketing,High,Director,M,11.3,2.5,73925.97,Yes
+EMP0575,30,hr,,,Female,34.1,2.9,72303.54,No
+EMP0576,54,Marketing,High,Lead,Female,20.3,2.8,70777.17,Yes
+EMP0577,41,SALES,Medium,analyst,Female,8.9,5.0,29012.68,No
+EMP0578,34,Engineering,HIGH,Manager,Other,18.3,3.2,102981.89,Yes
+EMP0579,49,HR,,Associate,male,12.0,1.4,115290.47,no
+EMP0580,50,IT,High,Engineer,Female,18.6,3.4,107896.3,No
+EMP0581,34,Sales,,Lead,male ,4.4,1.6,37996.61,No
+EMP0582,56,Marketing,Low,MANAGER,FEMALE,4.6,1.1,N/A,No
+EMP0583,27,HR,Low,Analyst,male ,5.0,4.9,94032.98,no
+EMP0584,39,HR,HIGH,MANAGER, Female,32.9,4.1,132893.4,No
+EMP0585,26,Finance,low,Analyst,M,25.7,4.9,69286.6,No
+EMP0586,,HR,Very High,MANAGER,FEMALE,5.7,2.9,-1000,No
+EMP0587,23,Operations,High,Associate,male ,6.6,N/A,100408.52,No
+EMP0588,31,Finance,Band-B,Senior Analyst,FEMALE,25.6,1.7,102299.44,No
+EMP0589,51,IT,High,Analyst,Male,Unknown,2.0,81007.08,No
+,26,,HIGH,MANAGER,M,8.2,4.4,77597.72,No
+EMP0591,54,HR,Medium,Associate,male,33.7,2.4,84239.2,No
+EMP0592,22,hr,High,MANAGER, Female,8.9,4.3,131935.89,No
+EMP0593,39,Marketing,Band-B,analyst,M,23.2,3.8,79951.7,Yes
+EMP0594,,IT,MED,Associate,M,34.3,1.7,142191.13,Yes
+EMP0595,32,IT,MED,,M,13.1,3.0,85520.49,No
+EMP0596,42,,MED,Lead,M,0.6,3.7,143396.09,No
+EMP0597,47,Engineering,MED,analyst,Male,8.5,1.9,128268.15,No
+EMP0598,46,Engineering,HIGH,,FEMALE,29.1,4.3,,No
+,43,IT,MED,Director,,30.3,3.2,132273.38,No
+EMP0600,48,SALES,Low,Senior Analyst,,26.9,1.7,34308.23,Yes
+EMP0601,34,Marketing,Low,,Other,4.0,3.3,140256.13,Yes
+EMP0602,54,Operations,Band-A,,,27.8,5.0,102113.66,No
+EMP0603,55,,Very High,analyst,M,32.2,1.6,27070.8,No
+EMP0604,56,,,Manager,Female,21.0,4.3,103753.37,No
+EMP0605,22,Operations,Low,,M,32.9,1.8,146652.2,No
+EMP0606,42,hr,,Analyst,F,28.9,99,29074.09,No
+EMP0607,27,Sales,Band-A,Associate,Male,23.3,3.9,92109.4,No
+EMP0608,49,Engineering,Very High,Analyst, Female,20.2,2.2,117213.27,No
+EMP0609,38,,Low,Lead,,12.2,2.3,125333.62,Yes
+EMP0610,26,Operations,Low,Director,Male,5.6,4.2,73797.57,1
+EMP0611,52,Engineering,Very High,Director,Other,21.2,2.8,46541.65,No
+EMP0612,26,SALES,Very High,Senior Analyst,Other,11.1,3.9,25504.5,No
+EMP0613,59,IT,,Lead,Other,30.3,1.6,95364.4,YES
+EMP0614,24,Finance,low,Senior Analyst,male ,34.8,4.4,78878.44,No
+EMP0615,44,IT,High,MANAGER,Male,,3.8,143336.77,No
+EMP0616,58,Finance,Medium,MANAGER, Female,3.2,99,27878.64,No
+EMP0617,58,,MED,Manager,Other,10.1,1.5,109101.39,Yes
+EMP0618,31,Marketing,Band-A,Associate,F,3.8,3.4,23245.61,No
+EMP0619,31,Operations,Band-B,Director,F,22.8,3.4,42286.44,No
+EMP0620,40,Marketing,low,Associate, Female,26.8,2.4,78965.27,No
+EMP0621,38,Operations,High,Analyst,Other,32.4,2.8,79133.42,No
+EMP0622,42,SALES,Medium,Lead,Other,15.3,1.2,109141.07,No
+EMP0623,35,hr,Low,Senior Analyst,FEMALE,31.5,4.0,138327.69,No
+EMP0624,30,HR,low,Analyst,Other,30.7,3.2,103074.18,No
+EMP0625,22,hr,low,MANAGER,Female,11.1,1.2,143959.56,No
+EMP0626,34,,HIGH,Engineer, Female,30.4,3.7,134610.03,No
+EMP0627,25,Operations,Band-A,, Female,13.1,2.9,95984.97,No
+EMP0628,22,Sales,Band-B,Senior Analyst,Male,10.4,1.1,,Yes
+EMP0629,53,Sales,Band-A,Senior Analyst,F,22.7,4.9,103535.09,No
+EMP0630,55,Engineering,,Director,male ,11.5,-1,30212.52,Yes
+EMP0631,49,,MED,analyst,,22.1,3.1,116273.41,Yes
+EMP0632,52,Sales,High,Associate, Female,21.3,1.4,32338.1,No
+EMP0633,29,Engineering,,Engineer,male ,19.7,4.0,97230.76,No
+EMP0634,N/A,HR,HIGH,Director,F,13.3,3.0,111343.23,No
+EMP0635,55,,,,Male,19.2,2.2,28648.59,Yes
+EMP0636,24,,Very High,Director,M,,3.0,50003.31,No
+EMP0637,33,Sales,High,Director,M,19.1,3.1,139037.39,No
+,22,IT,MED,Director,Male,15.6,3.3,100120.88,No
+EMP0639,26,Finance,Low,Associate,male,0.5,2.8,52017.18,No
+EMP0640,51,HR,Very High,Director,Male,20.5,3.4,109788.37,Yes
+EMP0641,51,Marketing,Very High,Director,M,5.9,4.7,97580.93,No
+EMP0642,38,HR,High,Director,Male,22.5,2.4,85204.84,Yes
+EMP0643,44,Marketing,Very High,Director, Female,26.6,3.9,146904.31,No
+EMP0644,36,Engineering,Low,analyst, Female,17.5,4.6,108848.99,No
+EMP0645,58,Operations,Band-B,Senior Analyst,,19.0,2.8,68807.34,No
+EMP0646,42,Marketing,Band-A,Engineer,male,33.3,2.8,124009.55,Yes
+EMP0647,35,Engineering,High,Analyst,Female,29.7,3.4,134995.83,No
+EMP0648,23,Operations,Medium,Analyst,Male,,3.4,36278.67,Yes
+EMP0649,32,HR,,Analyst,Female,28.5,4.2,46071.89,No
+EMP0650,59,Sales,Low,,FEMALE,3.8,2.9,48109.51,No
+EMP0651,55,IT,MED,analyst,M,5.2,5.0,109857.54,No
+EMP0652,59,Marketing,low,Manager,M,18.4,1.2,98395.14,No
+EMP0653,55,Finance,Band-A,MANAGER,,8.6,1.0,100468.9,Yes
+EMP0654,39,IT,Band-B,Manager, Female,16.7,3.6,142300.53,No
+EMP0655,51,Engineering,Low,, Female,13.8,2.2,120868.5,Yes
+EMP0656,36,Engineering,Band-B,Senior Analyst, Female,19.2,2.0,0,Yes
+EMP0657,48,Sales,Low,analyst,male ,26.1,-1,65175.92,No
+EMP0658,55,Finance,Medium,Senior Analyst,M,25.0,2.0,76601.17,Yes
+EMP0659,59,,Low,,Other,18.2,1.1,71475.01,Yes
+EMP0660,54,Engineering,Low,analyst, Female,28.8,4.9,107010.12,No
+EMP0661,45,HR,Medium,Associate,male,15.1,1.9,135946.1,No
+EMP0662,36,hr,MED,,Male,Unknown,3.9,#ERROR,Yes
+EMP0663,51,Finance,HIGH,Engineer,Female,2.5,4.1,91744.03,No
+EMP0664,38,SALES,MED,MANAGER,,33.4,4.7,0,No
+EMP0665,26,,Medium,Associate,male,22.9,1.1,74108.35,No
+EMP0666,50,Sales,Band-A,Lead,male,13.3,4.5,#ERROR,No
+EMP0667,25,Sales,low,Director,FEMALE,6.9,,81743.63,Yes
+EMP0668,31,Operations,HIGH,analyst,Female,16.8,3.5,27178.93,no
+EMP0669,38,Engineering,High,Engineer,FEMALE,6.8,3.6,142509.85,No
+EMP0670,31,IT,Very High,Manager,male ,5.8,-1,29726.76,No
+EMP0671,999,HR,Low,MANAGER,Female,21.6,2.3,76999.37,No
+EMP0672,41,,low,Lead,,18.3,3.9,88884.56,No
+EMP0673,45,Engineering,MED,,Other,23.5,3.1,148089.5,No
+EMP0674,26,Finance,Medium,MANAGER,M,32.5,4.2,41582.84,No
+EMP0675,55,IT,Band-A,Manager,Female,18.6,5.0,34876.1,No
+EMP0676,27,Engineering,low,MANAGER,,20.3,1.8,21131.8,Yes
+EMP0677,23,Engineering,Band-B,Senior Analyst,male,3.1,5.0,40224.29,Yes
+EMP0678,34,Engineering,Band-B,Lead,male ,25.1,1.4,46945.49,No
+EMP0679,32,Operations,High,Engineer,FEMALE,14.0,1.0,101975.52,No
+EMP0680,44,Operations,MED,,male ,34.2,1.2,48561.88,No
+EMP0681,37,Marketing,Medium,Analyst,F,28.8,2.4,22667.71,No
+EMP0682,52,HR,Band-A,MANAGER,F,18.3,3.5,127460.38,No
+EMP0683,32,IT,Band-B,, Female,4.3,1.3,67527.44,Yes
+EMP0684,37,HR,Medium,Senior Analyst,Male,30.1,1.0,N/A,No
+,29,HR,low,Manager,Female,28.0,4.7,59322.27,Yes
+EMP0686,25,Engineering,Medium,Manager, Female,6.5,4.3,146798.53,No
+EMP0687,25,SALES,Medium,Director,male ,10.3,4.2,42115.0,
+EMP0688,46,hr,HIGH,Lead,Female,27.8,4.5,136770.95,No
+EMP0689,-5,Sales,Very High,analyst,Other,6.5,3.8,120984.43,No
+EMP0690,53,hr,Band-B,Analyst, Female,32.1,1.4,29942.39,Yes
+EMP0691,24,HR,Very High,Senior Analyst,,14.9,2.6,148274.78,No
+EMP0692,48,,low,Senior Analyst,FEMALE,3.0,3.9,55277.58,No
+EMP0693,50,Operations,Band-A,analyst, Female,28.6,2.1,32815.78,No
+EMP0694,53,Finance,Very High,Associate,male,13.1,3.7,127810.85,No
+EMP0695,40,HR,,Engineer,,18.4,1.1,111867.82,No
+EMP0696,N/A,IT,MED,MANAGER,male ,3.9,2.2,100238.44,No
+EMP0697,26,hr,low,Associate, Female,Unknown,3.2,40277.51,No
+EMP0698,39,,High,Director, Female,22.3,3.5,82204.5,No
+EMP0699,49,Finance,Low,Associate,male,18.0,3.3,121472.28,No
+EMP0700,43,Engineering,Band-A,,M,20.8,3.8,59471.11,No
+EMP0701,42,Engineering,HIGH,analyst, Female,27.8,1.0,60519.68,No
+EMP0702,27,HR,Very High,Senior Analyst, Female,,1.4,-1000,No
+EMP0703,22,Engineering,HIGH,Senior Analyst,Other,6.1,4.5,42651.64,No
+EMP0704,26,hr,,Engineer,male ,12.6,3.7,133802.73,No
+EMP0705,33,IT,Very High,,Other,31.7,1.5,77427.04,Yes
+EMP0706,47,Operations,Low,Lead,Other,26.9,4.4,147950.48,No
+EMP0707,55,IT,Low,Director,M,19.5,2.0,71442.04,Yes
+EMP0708,35,Operations,Medium,Lead, Female,8.9,2.9,112974.24,Yes
+EMP0709,47,HR,Medium,Senior Analyst,F,10.6,1.6,56649.48,No
+EMP0710,48,Finance,Band-B,Senior Analyst,,25.6,3.8,67295.25,No
+EMP0711,30,Marketing,HIGH,Lead,F,29.8,3.7,44794.38,Yes
+EMP0712,47,Engineering,High,Associate,Male,23.5,1.8,65118.11,YES
+EMP0713,43,Finance,Medium,,Female,Unknown,4.5,91140.88,Yes
+EMP0714,51,SALES,Band-A,Engineer,Male,26.8,2.6,148930.47,No
+EMP0715,38,hr,Medium,analyst,Other,5.2,2.2,106346.22,Yes
+EMP0716,47,hr,Medium,Engineer,Female,14.8,1.6,45901.97,Yes
+EMP0717,57,hr,low,analyst,F,5.4,2.1,25844.99,No
+EMP0718,22,Marketing,Very High,Director, Female,8.2,1.1,36426.34,No
+EMP0719,29,Sales,HIGH,Analyst,FEMALE,30.4,3.3,93132.18,No
+EMP0720,56,Marketing,low,Associate,FEMALE,16.6,4.4,119470.84,Yes
+EMP0721,36,Finance,low,Director,Male,18.7,3.2,142254.5,No
+EMP0722,43,SALES,HIGH,MANAGER,male,6.2,1.9,22057.01,No
+EMP0723,35,hr,Low,Lead,male,10.9,1.1,87958.82,No
+EMP0724,47,SALES,Medium,Lead,male ,8.1,1.9,81212.76,No
+EMP0725,49,Finance,High,Director,F,7.2,2.7,N/A,y
+EMP0726,44,IT,Low,Engineer,Male,Unknown,4.0,92745.25,Yes
+EMP0727,35,Marketing,low,Engineer,F,9.0,1.8,109315.09,No
+EMP0728,45,Sales,,,,22.1,3.9,105550.74,No
+EMP0729,23,Finance,,Manager,,2.0,99,35211.52,No
+EMP0730,47,,MED,Engineer,Female,5.0,2.8,123963.33,Yes
+EMP0731,35,IT,Medium,Lead,,9.6,4.3,36020.23,Yes
+EMP0732,28,Engineering,Medium,,,20.9,3.2,110808.98,No
+EMP0733,24,Finance,Low,Engineer,male ,23.7,3.5,74098.9,Yes
+EMP0734,44,,Low,MANAGER,male ,15.5,99,86800.6,Yes
+EMP0735,39,hr,High,MANAGER,male,15.6,2.9,137428.74,No
+EMP0736,59,Engineering,High,Senior Analyst,Male,25.4,1.9,135684.88,No
+EMP0737,56,SALES,,,Female,0.6,-1,126321.32,No
+EMP0738,36,Sales,,Associate,male,11.9,2.2,86319.29,No
+EMP0739,46,Operations,HIGH,Associate,male,28.7,3.3,115711.18,No
+EMP0740,58,Operations,Band-B,MANAGER,FEMALE,21.1,1.5,86676.62,Yes
+EMP0741,49,HR,low,analyst, Female,11.8,4.7,133048.79,Yes
+EMP0742,31,IT,Medium,Manager, Female,31.7,3.9,72360.86,No
+EMP0743,38,hr,,Lead,Male,27.0,2.6,146130.59,No
+EMP0744,43,IT,,Analyst,M,9.3,1.6,141201.96,No
+EMP0745,47,Operations,High,Engineer,F,22.6,4.5,116408.34,Yes
+EMP0746,46,SALES,Medium,Manager,male,20.9,4.3,56324.06,No
+EMP0747,38,HR,MED,Director,male,14.0,3.9,37114.97,No
+EMP0748,34,,MED,Associate,Other,12.8,2.1,131111.45,No
+EMP0749,41,Engineering,HIGH,,Other,12.0,2.6,41489.3,No
+EMP0750,46,Sales,low,Analyst,Male,21.6,1.4,131053.9,No
+EMP0751,25,hr,MED,,M,15.5,1.8,83799.45,No
+EMP0752,31,Engineering,HIGH,Senior Analyst,Other,29.1,4.1,72852.38,No
+EMP0753,24,Sales,MED,Associate,M,23.4,3.9,137414.8,Yes
+EMP0754,39,Marketing,High,Senior Analyst,Other,2.4,3.4,98500.63,No
+EMP0755,57,Finance,Medium,Senior Analyst,male ,Unknown,4.6,94959.82,No
+EMP0756,43,Sales,High,MANAGER,male,9.5,3.3,92639.57,Yes
+EMP0757,55,Sales,Low,MANAGER,Other,20.7,2.9,68252.04,No
+EMP0758,29,IT,High,Associate,FEMALE,23.8,2.4,122133.6,No
+EMP0759,,SALES,Medium,Senior Analyst,Male,8.1,4.8,52863.8,No
+EMP0760,58,Marketing,MED,Manager,male ,16.0,1.3,142056.34,No
+EMP0761,27,SALES,Band-B,Lead,,6.7,4.7,136218.08,Yes
+EMP0762,47,IT,HIGH,Analyst, Female,1.8,4.3,63872.44,No
+EMP0763,55,IT,Band-B,Senior Analyst,male,13.2,1.5,114830.29,No
+EMP0764,27,IT,HIGH,analyst,male ,12.7,3.3,94519.02,1
+EMP0765,58,Engineering,High,Director,male ,34.8,4.5,63894.41,No
+EMP0766,54,SALES,Band-B,analyst,Male,15.6,3.3,148507.81,No
+EMP0767,43,SALES,MED,analyst,F,11.7,4.6,23280.85,No
+EMP0768,42,hr,,MANAGER, Female,20.3,4.8,52843.98,No
+EMP0769,27,HR,Band-B,Engineer,male,3.1,2.7,87609.63,No
+EMP0770,27,Marketing,Low,Associate,male,33.7,2.5,87853.89,Yes
+EMP0771,25,Engineering,High,Senior Analyst,Female,22.2,4.7,96561.3,No
+EMP0772,51,Marketing,HIGH,Senior Analyst,M,26.4,3.7,117717.9,No
+EMP0773,32,Engineering,HIGH,MANAGER,,6.0,1.5,101052.12,Yes
+EMP0774,51,SALES,Medium,,Male,14.3,1.2,98036.59,No
+EMP0775,52,Finance,MED,,male,14.8,3.3,26956.88,Yes
+EMP0776,45,HR,HIGH,Analyst,FEMALE,28.8,4.7,68948.94,No
+EMP0777,30,SALES,Low,Lead,male ,0.0,4.4,50167.25,No
+EMP0778,24,Operations,Medium,analyst,M,10.5,3.7,54498.11,y
+EMP0779,52,IT,low,Associate, Female,34.3,1.6,92063.87,Yes
+EMP0780,,hr,,, Female,16.6,2.0,45935.69,Yes
+EMP0781,57,Engineering,Low,Engineer,FEMALE,13.4,4.5,,No
+EMP0782,45,Marketing,Band-A,Engineer,M,4.2,1.7,50821.01,Yes
+EMP0783,52,IT,Band-B,Senior Analyst, Female,34.1,2.1,143305.38,No
+EMP0784,27,Finance,Band-B,Lead,Female,0.7,1.5,142806.55,Yes
+EMP0785,23,Sales,Very High,analyst,,,3.7,99292.4,No
+EMP0786,41,Finance,,analyst,male,26.9,4.8,140187.92,No
+EMP0787,49,Engineering,Band-A,Lead,Male,8.5,2.1,122155.64,No
+EMP0788,32,IT,Band-A,Analyst,,23.5,2.9,96693.22,no
+EMP0789,25,Engineering,Band-B,Analyst,FEMALE,3.3,99,20836.58,no
+EMP0790,36,,Medium,Engineer,Female,9.0,5.0,120427.12,No
+EMP0791,27,hr,MED,Senior Analyst,Other,27.6,1.4,111323.48,No
+EMP0792,51,hr,Very High,Director,F,30.3,3.0,99982.97,Yes
+EMP0793,59,Sales,HIGH,Senior Analyst,male,21.3,2.5,N/A,No
+EMP0794,23,Marketing,,Senior Analyst,Other,17.7,4.5,86679.88,No
+EMP0795,36,HR,MED,Associate,,5.6,2.9,111530.83,No
+EMP0796,999,Engineering,High,Associate,F,2.2,1.4,141572.37,No
+EMP0797,29,Sales,Band-A,analyst,male ,4.1,,68854.65,No
+EMP0798,47,HR,Band-B,Lead,,,4.1,112055.84,No
+EMP0799,26,Sales,Low,Associate,M,,1.0,81839.42,Yes
+EMP0800,N/A,HR,Low,,Female,13.3,-1,107671.95,Yes
+EMP0801,47,,High,Senior Analyst,male,12.1,1.7,119176.13,Yes
+EMP0802,25,Operations,Band-A,analyst,Male,Unknown,3.2,25908.83,No
+EMP0803,40,SALES,HIGH,MANAGER,F,17.8,2.7,104058.06,No
+EMP0804,41,SALES,HIGH,,Female,28.9,3.9,-1000,No
+EMP0805,54,Marketing,High,Lead,Other,9.8,2.5,107104.23,No
+EMP0806,-5,HR,Medium,Engineer,male ,33.0,4.5,80882.92,No
+EMP0807,33,Operations,HIGH,Engineer,Male,30.6,3.9,120561.86,No
+EMP0808,22,HR,,Manager,Other,5.7,3.6,36042.11,No
+EMP0809,47,Marketing,Very High,Engineer,male ,27.5,4.2,101421.91,No
+EMP0810,35,Engineering,,Director,M,20.1,4.0,56201.19,No
+EMP0811,59,Sales,low,Associate,F,19.8,1.1,130887.66,No
+EMP0812,58,Operations,Low,Analyst,male,13.7,2.6,140689.86,No
+EMP0813,32,IT,Band-A,Director,Other,17.5,4.7,149531.78,No
+EMP0814,57,Marketing,Very High,Engineer,male ,13.9,1.5,123480.96,No
+EMP0815,34,SALES,Band-A,Lead,,18.9,3.9,117985.43,No
+EMP0816,24,Engineering,MED,Analyst,male,22.0,4.9,48015.1,No
+EMP0817,54,Marketing,MED,Analyst,M,23.6,1.2,63680.92,Yes
+EMP0818,27,hr,Very High,Analyst,Female,18.6,3.7,80538.73,No
+EMP0819,31,Engineering,Medium,,male ,25.2,2.9,120539.54,Yes
+EMP0820,26,,HIGH,MANAGER,M,4.9,3.3,138945.56,No
+EMP0821,44,,HIGH,Manager,F,7.4,1.3,44588.08,No
+EMP0822,31,SALES,Band-B,Manager,Male,28.7,1.2,0,No
+EMP0823,23,Operations,HIGH,Lead,Other,-1,3.7,110431.2,Yes
+EMP0824,34,Sales,Medium,MANAGER,FEMALE,0.8,4.3,99400.19,No
+EMP0825,23,,HIGH,Analyst,male ,5.4,4.1,45979.37,No
+EMP0826,41,hr,HIGH,Analyst,Female,7.8,3.2,27218.25,no
+EMP0827,22,HR,,Associate,Male,33.5,1.4,93900.44,No
+EMP0828,58,Operations,Medium,analyst,,,3.8,104697.04,No
+EMP0829,30,HR,HIGH,Engineer,Male,32.6,2.0,N/A,No
+EMP0830,38,Marketing,Low,Analyst, Female,20.1,4.6,92339.31,Yes
+EMP0831,30,Engineering,Medium,Lead,Female,16.8,4.4,131344.14,No
+EMP0832,32,hr,MED,Associate,male,11.0,3.8,128558.57,No
+EMP0833,36,Engineering,MED,Director,Other,21.2,99,140556.17,No
+EMP0834,45,Finance,Low,Director,Male,4.9,1.1,67565.16,No
+EMP0835,59,SALES,Band-A,Associate,Female,31.4,,61346.44,Yes
+EMP0836,56,Sales,Band-A,,male ,29.0,2.3,117425.38,Yes
+EMP0837,51,Sales,Low,Engineer,,11.1,4.6,76044.61,No
+EMP0838,52,Sales,Medium,Engineer,Male,33.3,2.1,31381.33,No
+EMP0839,26,Finance,Band-B,MANAGER, Female,28.9,3.9,56764.15,Yes
+EMP0840,35,Sales,Band-B,Engineer,,23.3,4.5,74415.7,Yes
+EMP0841,32,,low,Manager,F,4.3,1.2,58027.14,No
+EMP0842,30,Operations,Band-A,Manager,male,16.7,2.6,63186.72,Yes
+EMP0843,55,IT,Band-A,Senior Analyst,F,17.7,4.0,58190.87,Yes
+EMP0844,-5,HR,Very High,Senior Analyst,F,8.1,2.8,25394.89,No
+EMP0845,56,HR,HIGH,,,2.8,2.1,102822.31,Yes
+EMP0846,56,Sales,,,,27.2,1.9,97648.01,No
+EMP0847,22,SALES,,MANAGER,male ,4.3,1.5,104939.85,No
+EMP0848,43,IT,Low,Associate,male,20.8,4.4,45000.29,No
+EMP0849,50,Finance,Very High,MANAGER,Other,32.8,3.3,58435.09,No
+EMP0850,29,Operations,HIGH,,Female,30.7,1.3,100550.07,1
+EMP0851,32,Finance,,Engineer,,9.7,2.5,97951.58,
+EMP0852,58,IT,Band-A,MANAGER,M,29.8,N/A,85822.94,No
+EMP0853,35,Operations,Band-B,Engineer,M,0.0,1.7,65553.72,No
+EMP0854,51,Marketing,Band-B,analyst,,0.6,2.7,138681.03,No
+EMP0855,56,Engineering,HIGH,analyst,Female,21.1,2.3,64170.13,No
+EMP0856,42,hr,,,Male,12.8,2.4,#ERROR,No
+EMP0857,58,Operations,HIGH,analyst, Female,13.5,4.0,108154.8,Yes
+EMP0858,26,Engineering,Medium,Lead,male ,19.8,1.9,90592.79,No
+EMP0859,40,SALES,Medium,MANAGER,male ,6.7,3.6,65095.18,Yes
+EMP0860,35,Sales,Very High,MANAGER,Female,7.4,3.3,76633.82,No
+EMP0861,47,HR,Low,Associate,F,17.0,3.3,123282.51,No
+EMP0862,25,Finance,,Senior Analyst,male ,26.4,3.7,56156.79,No
+EMP0863,46,SALES,,,male,21.7,3.2,38493.18,No
+EMP0864,46,Sales,low,MANAGER,male ,10.4,4.5,-1000,No
+EMP0865,39,IT,Band-A,Director,male,15.1,3.7,130439.45,No
+EMP0866,29,Engineering,Band-A,Analyst,,,3.2,31568.66,Yes
+EMP0867,35,,,,M,2.6,4.3,#ERROR,No
+EMP0868,53,Marketing,Medium,Associate,,27.4,3.4,90330.38,No
+EMP0869,59,Marketing,Low,Senior Analyst, Female,9.3,2.2,148029.95,No
+EMP0870,54,Operations,High,Lead,F,6.2,1.8,142069.53,No
+EMP0871,44,Engineering,HIGH,Associate,M,24.2,1.6,78865.78,Yes
+EMP0872,36,SALES,High,Engineer,Female,21.6,4.6,45803.84,No
+EMP0873,54,,MED,Associate,,22.2,3.8,0,No
+EMP0874,46,Sales,Medium,Manager, Female,8.0,4.7,51198.62,No
+EMP0875,38,Operations,low,Manager,male,8.1,3.4,112317.24,No
+EMP0876,54,Finance,Band-B,MANAGER,male ,7.7,2.9,55483.5,No
+EMP0877,23,Marketing,Very High,Engineer,Other,6.1,1.2,64385.29,No
+EMP0878,35,hr,Very High,Senior Analyst,Male,23.0,3.7,78341.24,No
+EMP0879,27,Marketing,Medium,Associate,M,29.7,3.3,138720.25,No
+EMP0880,27,hr,MED,,Male,25.4,5.0,44621.14,Yes
+EMP0881,24,Finance,Very High,MANAGER,Other,27.7,2.0,20653.45,No
+EMP0882,28,,HIGH,Manager,Male,14.2,3.1,27812.53,No
+,29,Operations,Very High,,Female,22.9,3.6,137619.62,No
+EMP0884,36,hr,,,FEMALE,12.4,3.6,104177.14,Yes
+EMP0885,50,,Medium,Associate,Male,18.4,3.2,55495.28,No
+EMP0886,54,Finance,MED,Manager,Female,16.9,4.1,43035.03,No
+EMP0887,51,SALES,Low,Lead,FEMALE,6.2,1.8,58254.68,Yes
+EMP0888,48,Finance,Band-B,Associate,FEMALE,13.5,3.9,,No
+EMP0889,57,HR,Medium,analyst,M,33.7,3.5,142399.28,y
+EMP0890,50,Sales,HIGH,Director, Female,8.7,4.6,121946.8,Yes
+EMP0891,59,IT,HIGH,Manager, Female,4.7,4.4,80110.85,Yes
+EMP0892,54,Sales,Band-B,MANAGER,Other,14.7,2.3,132445.14,No
+EMP0893,58,Finance,Band-A,Senior Analyst, Female,27.7,2.1,#ERROR,y
+EMP0894,48,SALES,High,Director,male,20.4,,113225.67,No
+EMP0895,54,Operations,HIGH,Lead,,23.8,3.1,131297.22,Yes
+EMP0896,25,Sales,Low,MANAGER,male,6.6,4.6,66379.93,No
+EMP0897,43,Operations,Band-A,Lead,F,21.7,1.7,118470.38,No
+EMP0898,23,Sales,Low,Lead,male ,11.3,3.6,58359.41,No
+EMP0899,31,IT,Band-A,Director,Female,29.2,4.2,58851.43,No
+EMP0900,26,Marketing,MED,Engineer,Other,22.0,4.8,33917.43,No
+EMP0901,-5,Engineering,Band-B,Lead, Female,7.0,2.3,77207.55,No
+EMP0902,54,Finance,HIGH,Lead,M,2.3,3.9,114862.55,No
+EMP0903,59,SALES,Band-A,Director,Female,,3.2,142228.7,Yes
+EMP0904,34,Finance,High,Associate,Other,13.0,N/A,98493.61,No
+EMP0905,52,IT,Band-B,Analyst,Female,9.3,3.8,132207.62,Yes
+EMP0906,57,,High,Lead,Other,-1,3.8,126924.3,No
+EMP0907,45,Sales,High,Director,,17.5,4.7,42534.6,No
+EMP0908,36,HR,Medium,MANAGER,Other,9.3,3.0,83156.27,No
+EMP0909,50,Marketing,MED,analyst,Other,5.2,1.9,35200.06,No
+EMP0910,29,Engineering,Band-B,Associate,F,4.5,1.2,108679.91,No
+EMP0911,26,Sales,Band-B,Associate,F,30.3,2.7,143486.96,No
+EMP0912,50,Finance,,MANAGER,M,8.5,2.2,37821.63,No
+EMP0913,25,SALES,Band-A,Associate, Female,22.8,N/A,115404.81,No
+EMP0914,33,IT,MED,Lead,,28.4,2.4,102190.96,No
+EMP0915,23,Operations,MED,Director,male,21.5,4.8,95868.65,No
+EMP0916,48,,Band-B,Analyst,FEMALE,30.1,,70715.63,No
+EMP0917,52,Engineering,Very High,Engineer,M,13.7,3.5,66167.11,No
+EMP0918,57,hr,low,Engineer,male,33.5,4.7,25882.39,No
+EMP0919,57,Engineering,MED,Associate,male,4.7,4.0,48328.13,Yes
+EMP0920,47,SALES,,Analyst,Other,3.6,3.2,21972.99,Yes
+EMP0921,48,HR,low,,Other,23.1,1.7,95584.22,No
+EMP0922,26,IT,HIGH,analyst,Male,33.0,2.8,33760.92,Yes
+EMP0923,41,Engineering,High,,Female,28.3,3.2,133492.52,No
+EMP0924,32,hr,High,Associate,Other,,4.5,88008.59,
+EMP0925,31,hr,MED,analyst,Female,9.8,2.9,N/A,Yes
+EMP0926,59,Sales,Band-B,,male,32.6,4.6,73411.42,No
+EMP0927,27,IT,Band-A,Director,Other,8.9,N/A,92875.38,Yes
+EMP0928,29,HR,low,Senior Analyst,Other,27.3,1.5,142545.69,No
+EMP0929,44,Finance,Band-A,Manager,M,28.9,5.0,30755.43,Yes
+EMP0930,47,Marketing,,Engineer,,-1,3.1,53011.91,Yes
+EMP0931,33,Marketing,Band-A,Manager,male,13.5,2.6,121398.48,No
+EMP0932,47,Operations,Very High,MANAGER, Female,15.8,3.6,32835.84,No
+EMP0933,34,IT,Very High,Manager, Female,7.9,1.4,,No
+EMP0934,39,Operations,Very High,Engineer,M,31.1,3.5,67000.38,No
+EMP0935,46,Operations,Band-B,Analyst,male ,15.8,3.0,31981.83,No
+EMP0936,54,,low,Associate,Female,30.9,2.6,96060.2,No
+EMP0937,33,Marketing,,Associate,FEMALE,3.7,4.8,49415.78,No
+EMP0938,57,Finance,High,Engineer,Female,34.6,3.1,136440.74,No
+EMP0939,25,Engineering,High,,male,15.5,1.9,-1000,No
+EMP0940,26,Finance,Band-A,Manager,male ,1.7,2.8,#ERROR,No
+EMP0941,58,HR,Band-A,Director,Female,1.3,4.7,100202.72,No
+EMP0942,N/A,hr,,Analyst,,26.1,1.7,132250.54,No
+EMP0943,49,Engineering,Medium,Engineer,male ,23.1,1.9,48998.07,0
+EMP0944,52,HR,,Manager,Other,28.1,1.1,133504.15,No
+EMP0945,30,Engineering,Band-A,,FEMALE,3.7,1.1,122634.0,No
+EMP0946,50,HR,HIGH,Director, Female,1.2,4.3,117260.91,No
+EMP0947,35,,Band-B,Senior Analyst,FEMALE,17.8,3.9,92963.24,
+EMP0948,43,,Band-B,Lead,F,13.6,2.4,52011.74,Yes
+EMP0949,32,Operations,MED,Associate, Female,16.2,3.8,75061.23,No
+EMP0950,44,IT,Band-A,,F,34.7,2.6,123164.19,Yes
+EMP0951,22,Engineering,low,Senior Analyst,male ,34.0,4.8,24131.2,No
+EMP0952,58,SALES,MED,,M,33.0,4.9,121666.6,Yes
+EMP0953,N/A,Operations,Low,Manager,Other,27.4,2.6,,YES
+EMP0954,47,Finance,Band-A,Senior Analyst,FEMALE,,4.4,38760.2,No
+EMP0955,57,,Medium,Analyst,Female,14.4,4.1,35041.17,No
+EMP0956,44,Marketing,Low,Engineer,male,19.2,2.2,23542.5,Yes
+,22,,MED,Manager,F,29.1,1.9,88066.24,No
+EMP0958,36,Marketing,High,Associate, Female,2.4,2.8,48373.78,No
+EMP0959,42,Engineering,Low,Lead,FEMALE,14.9,4.1,148626.13,Yes
+EMP0960,30,Engineering,Low,Analyst,FEMALE,2.9,4.8,94676.78,Yes
+EMP0961,30,HR,Very High,MANAGER, Female,18.0,4.1,37925.09,No
+EMP0962,31,Marketing,low,,male,31.5,4.4,109539.13,No
+EMP0963,47,hr,High,Engineer,male ,27.4,3.4,136706.66,Yes
+EMP0964,56,Sales,low,Director,F,8.0,4.3,116873.33,No
+EMP0965,46,Finance,low,Associate,M,34.2,4.1,29937.18,No
+EMP0966,47,Operations,High,Lead,Female,23.4,2.5,136464.94,No
+,32,HR,Low,Manager, Female,0.4,3.2,123210.82,No
+EMP0968,59,Engineering,low,Analyst,Other,8.9,4.2,40579.51,No
+EMP0969,23,Finance,Very High,Director,Female,9.1,1.2,26732.17,No
+EMP0970,28,Operations,Band-A,Lead, Female,2.4,4.2,92450.37,No
+EMP0971,39,IT,Low,, Female,33.6,1.7,40284.66,No
+EMP0972,48,SALES,,Director,Other,16.7,3.1,128496.82,No
+EMP0973,55,Sales,HIGH,Manager,male,31.4,4.2,66583.51,No
+EMP0974,48,Marketing,Medium,Director,male ,11.3,2.0,138676.02,Yes
+EMP0975,38,Marketing,Band-B,,Female,,99,93539.46,No
+EMP0976,45,HR,Band-A,Analyst,Other,16.6,2.6,43747.41,No
+EMP0977,46,Sales,Very High,MANAGER,M,4.0,4.6,38147.85,No
+EMP0978,28,IT,Band-A,Director,,17.0,1.0,94941.42,No
+EMP0979,27,,MED,,FEMALE,32.2,4.6,119044.87,No
+EMP0980,45,SALES,Very High,Lead,Female,18.2,1.6,121595.73,Yes
+EMP0981,54,SALES,Band-A,Associate, Female,21.6,5.0,55848.46,No
+EMP0982,50,Finance,low,Senior Analyst,Female,5.5,4.8,46552.08,No
+EMP0983,43,Engineering,Low,Engineer, Female,1.5,3.0,22178.32,Yes
+EMP0984,47,,MED,Manager,FEMALE,3.9,3.1,108295.89,Yes
+EMP0985,49,Engineering,MED,MANAGER,male,20.9,2.9,29953.87,No
+EMP0986,42,HR,MED,MANAGER,Other,3.3,3.5,#ERROR,Yes
+EMP0987,28,Engineering,,Analyst,Male,13.2,1.4,98218.68,No
+EMP0988,38,Sales,Band-A,Associate,Female,19.3,N/A,141824.16,No
+EMP0989,41,Sales,Low,,F,13.6,1.2,60534.28,No
+EMP0990,41,Finance,Low,Associate,M,5.7,2.8,52470.38,No
+EMP0991,43,HR,low,Director, Female,9.6,2.1,105040.82,0
+EMP0992,49,Finance,Very High,Senior Analyst,Male,32.5,3.5,100501.07,Yes
+EMP0993,28,IT,Band-B,Manager,M,23.7,5.0,63174.27,No
+EMP0994,22,Operations,HIGH,Director,M,17.4,2.5,140653.24,No
+EMP0995,53,Engineering,Very High,Analyst,Other,0.4,3.3,129832.1,No
+EMP0996,34,hr,,Director,male ,34.7,2.7,49117.73,No
+EMP0997,51,hr,Band-B,Lead,,23.5,4.4,51088.53,No
+EMP0998,44,Marketing,Band-A,Senior Analyst,FEMALE,11.1,4.6,86599.05,No
+EMP0999,40,Engineering,Band-B,Manager, Female,30.8,4.5,120564.37,No
+EMP1000,53,Sales,Very High,Engineer, Female,9.0,4.9,25725.25,No
+EMP0884,36,hr,,,FEMALE,12.4,3.6,104177.14,Yes
+EMP0971,39,IT,Low,, Female,33.6,1.7,40284.66,No
+EMP0136,32,Finance,High,MANAGER,Female,2.7,1.0,35404.01,No
+EMP0217,58,Engineering,Band-B,analyst,,25.0,4.0,107367.29,Yes
+EMP0754,39,Marketing,High,Senior Analyst,Other,2.4,3.4,98500.63,No
+EMP0908,36,HR,Medium,MANAGER,Other,9.3,3.0,83156.27,No
+EMP0803,40,SALES,HIGH,MANAGER,F,17.8,2.7,104058.06,No
+EMP0319,33,Engineering,High,Senior Analyst, Female,4.1,1.7,34544.48,No
+EMP0463,34,hr,High,Manager,F,5.7,1.7,68521.35,No
+EMP0920,47,SALES,,Analyst,Other,3.6,3.2,21972.99,Yes
+EMP0263,48,IT,MED,Engineer, Female,16.0,4.2,,No
+EMP0545,41,Marketing,,Director,M,33.2,2.5,125652.77,1
+EMP0988,38,Sales,Band-A,Associate,Female,19.3,N/A,141824.16,No
+EMP0111,30,SALES,Low,Manager,male,15.3,4.8,35453.67,No
+EMP0954,47,Finance,Band-A,Senior Analyst,FEMALE,,4.4,38760.2,No
+EMP0982,50,Finance,low,Senior Analyst,Female,5.5,4.8,46552.08,No
+EMP0604,56,,,Manager,Female,21.0,4.3,103753.37,No
+EMP0303,38,hr,low,Lead,Female,30.9,4.6,121918.36,No
+EMP0350,58,SALES,Band-B,Lead,Other,13.0,2.7,123283.13,No
+EMP0874,46,Sales,Medium,Manager, Female,8.0,4.7,51198.62,No
+EMP0838,52,Sales,Medium,Engineer,Male,33.3,2.1,31381.33,No
+EMP0828,58,Operations,Medium,analyst,,,3.8,104697.04,No
+EMP0316,29,Marketing,High,Engineer,male,2.9,2.3,21494.02,Yes
+EMP0937,33,Marketing,,Associate,FEMALE,3.7,4.8,49415.78,No
+EMP0934,39,Operations,Very High,Engineer,M,31.1,3.5,67000.38,No
+EMP0901,-5,Engineering,Band-B,Lead, Female,7.0,2.3,77207.55,No
+EMP0173,53,hr,,Senior Analyst, Female,1.9,3.0,147666.44,y
+EMP0660,54,Engineering,Low,analyst, Female,28.8,4.9,107010.12,No
+EMP0426,29,HR,,,M,16.9,4.6,89105.06,No
+EMP0175,32,IT,Low,Lead, Female,18.3,1.6,115353.28,No
